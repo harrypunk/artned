@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `art northeast dance`,
-    description: `art love in Boston`,
+    description: `art lover in Boston`,
     author: `heyhey`,
   },
   plugins: [
